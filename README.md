@@ -1,5 +1,5 @@
 # Welcome Back to Erathia
-<h1 style="color: #5e9ca0;"><a title="Back to Erathia Website" href="backtoerathia.tech" target="_blank">Website</a></h1>
+backtoerathia.tech
 <h2><strong>About</strong></h2>
 <p>Back to Erathia is a virtual card based rpg game that is built on Metis. It was inspired by the greatest game of the history of mankind: Heroes of Might and Magic III. In this game the trading cards, Heroes, Creatures and Artifacts are represented as NFTs. The main function of the game is to use the owned BTE NFT cards in a scenario against computer or human opponents and to mint sell and buy trading cards.<br />This platform allows users to gather unique cards and trade with other players. It provides the transfer of digital assets and the right of ownership to the users. The trading cards will be able to be traded in upcoming NFT marketplaces on Andromeda mainnet.</p>
 <h2><strong>Gameplay</strong></h2>
