@@ -61,8 +61,8 @@
 <p>BTE Artifacts are increasing the attributes of the Hero who holds it (during the battles)<br />Initially BTE Artifacts can be acquired only using BTE Marketplace and BTE Gold Token. Once a user purchased the NFT it can be sold on any NFT Marketplace on Andromeda mainnet for their supported tokens.</p>
 <h3><strong>BTE Secondary Heroes</strong></h3>
 <p>Total supply: 1000<br />Secondary Heroes have the same attributes as Primary ones with the exception that they cannot mint new Heroes.</p>
-<h3><strong>BTE Primary Creatures</strong></h3>
-<p>Total supply: 72<br />Secondary Creatures have the same attributes as Primary ones with the exception that they cannot mint new Creatures.</p>
+<h3><strong>BTE Secondary Creatures</strong></h3>
+<p>Total supply: 10000<br />Secondary Creatures have the same attributes as Primary ones with the exception that they cannot mint new Creatures.</p>
 <h3><strong>BTE Regions</strong></h3>
 <p>Total supply: 50</p>
 <p>BTE Regions are land pieces of Erathia Continent. Players can purchase a land and earn BTE Gold Tokens for every other player who wonders on the land.</p>
