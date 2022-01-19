@@ -34758,11 +34758,11 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 122px;
+  min-height: 125px;
 }
 
 .u-header .u-menu-1 {
-  margin: 38px auto 30px 20px;
+  margin: 38px auto 33px 20px;
 }
 
 .u-header .u-nav-1 {
@@ -34774,17 +34774,17 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
-    min-height: 101px;
+    min-height: 103px;
   }
 }
 @media (max-width: 991px) {
   .u-header .u-sheet-1 {
-    min-height: 77px;
+    min-height: 79px;
   }
 }
 @media (max-width: 767px) {
   .u-header .u-sheet-1 {
-    min-height: 58px;
+    min-height: 59px;
   }
 }
 @media (max-width: 575px) {
