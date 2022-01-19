@@ -1,7 +1,8 @@
-# backtoerathia.GitHub.io
-<p><strong>About</strong></p>
+# Welcome Back to Erathia
+<h1 style="color: #5e9ca0;"><a title="Back to Erathia Website" href="backtoerathia.GitHub.io" target="_blank">Website</a></h1>
+<h2><strong>About</strong></h2>
 <p>Back to Erathia is a virtual card based rpg game that is built on Metis. It was inspired by the greatest game of the history of mankind: Heroes of Might and Magic III. In this game the trading cards, Heroes, Creatures and Artifacts are represented as NFTs. The main function of the game is to use the owned BTE NFT cards in a scenario against computer or human opponents and to mint sell and buy trading cards.<br />This platform allows users to gather unique cards and trade with other players. It provides the transfer of digital assets and the right of ownership to the users. The trading cards will be able to be traded in upcoming NFT marketplaces on Andromeda mainnet.</p>
-<p><strong>Gameplay</strong></p>
+<h2><strong>Gameplay</strong></h2>
 <p>Players can enter the game with minimum one BTE Primary or Secondary Hero. The player controls the Hero from an overhead perspective and navigates him throughout the continent of Erathia in a quest to conquer and rule them all.</p>
 <p>The game consist of <strong>five</strong> basic screens:</p>
 <ul>
@@ -21,11 +22,11 @@
 <p>During a battle, the player may choose to fight using attack or magic or attempt to flee; however, fleeing is not possible in player-to-player battle. The army have hit points (HP); when the army's HP is reduced to zero hte player gets defeated and the battle is over. Once the player's army won, the player's Hero that were involved in the battle receive a certain number of experience points (EXP). After accumulating enough EXP, a Hero will level up. A Hero's level controls its attributes, such as the attack, defense, knowledge and spell power. <br />Such changes are represented on the blockchain itself and with each level up of a Hero the new level and attributes are shown accordingly on the NFT. (This is possible since all NFT metadata stored on-chain for BTE Hero collection)</p>
 <p>Receiving bonus Secondary Creatures and Artifacts is another essential element of the gameplay to reward frequent player. While fighting and defeating a group of monster, the player may win the defeated Secondary Creature or a random Artifact which will come under the player's ownership. Factors in the success rate of winning such reward include the playtime of the Player and the amount of BTE Gold they are holding.</p>
 <p>Only Players with BTE Primary Heroes NFTs can mint BTE Secondary Heroes NFTs and with BTE Primary Creatures NFTs can mint BTE Secondary Creatures NFTs in the Tavern using BTE Gold Token. The minted NFTs are shown in the Player's wallet once the transaction is completed on the blockchain.</p>
-<p><strong>BTE Gold Token</strong></p>
+<h2><strong>BTE Gold Token</strong></h2>
 <p>Total Supply: 1 000 000 000<br />Utilities:<br />1) Governance: that grant voting and management power to users who hold BTE Gold<br />The token holders can influence new features and their roadmap. They can also use it to vote on patches and updates for existing features.<br />2) In-game currency to purchase Artifacts and mint Secondary Heroes and Creatures</p>
-<p><strong>NFT Collections</strong></p>
+<h2><strong>NFT Collections</strong></h2>
 <p>All NFTs will be tradable on any upcoming NFT Marketplace on Andromeda mainnet and on the BTE platform itself.</p>
-<p><strong>BTE Primary Heroes</strong></p>
+<h3><strong>BTE Primary Heroes</strong></h3>
 <p>Total supply: 100<br />ERC-721 standard Dynamic NFT Collection. <br />NFT Attributes:</p>
 <ul>
 <ul>
@@ -37,7 +38,7 @@
 </ul>
 </ul>
 <p>The metadata stored on-chain which allows the game to update the look and attributes of the NFT once a Hero level up.<br />Anyone who hold NFTs from this collection can mint BTE Secondary Heroes using BTE Gold Token.</p>
-<p><strong>BTE Primary Creatures</strong></p>
+<h3><strong>BTE Primary Creatures</strong></h3>
 <p>Total supply: 72<br />ERC-1155 standard NFT Collection. <br />NFT Attributes:</p>
 <ul>
 <ul>
@@ -49,7 +50,7 @@
 </ul>
 </ul>
 <p>Anyone who hold NFTs from this collection can mint BTE Secondary Creatures using BTE Gold Token.</p>
-<p><strong>BTE Artifacts</strong></p>
+<h3><strong>BTE Artifacts</strong></h3>
 <p>Total supply: 150<br />ERC-1155 standard NFT Collection. <br />NFT Attributes:</p>
 <ul>
 <ul>
@@ -61,16 +62,16 @@
 </ul>
 </ul>
 <p>BTE Artifacts are increasing the attributes of the Hero who holds it (during the battles)<br />Initially BTE Artifacts can be acquired only using BTE Marketplace and BTE Gold Token. Once a user purchased the NFT it can be sold on any NFT Marketplace on Andromeda mainnet for their supported tokens.</p>
-<p><strong>BTE Secondary Heroes</strong></p>
+<h3><strong>BTE Secondary Heroes</strong></h3>
 <p>Total supply: 1000<br />Secondary Heroes have the same attributes as Primary ones with the exception that they cannot mint new Heroes.</p>
-<p><strong>BTE Primary Creatures</strong></p>
+<h3><strong>BTE Primary Creatures</strong></h3>
 <p>Total supply: 72<br />Secondary Creatures have the same attributes as Primary ones with the exception that they cannot mint new Creatures.</p>
-<p><strong>BTE Regions</strong></p>
+<h3><strong>BTE Regions</strong></h3>
 <p>Total supply: 50</p>
 <p>BTE Regions are land pieces of Erathia Continent. Players can purchase a land and earn BTE Gold Tokens for every other player who wonders on the land.</p>
 <p>&nbsp;</p>
 <p><strong>&nbsp;</strong></p>
-<p><strong>Roadmap</strong></p>
+<h2><strong>Roadmap</strong></h2>
 <p><strong>&nbsp;</strong></p>
 <table>
 <tbody>
